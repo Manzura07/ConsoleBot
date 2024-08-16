@@ -1,0 +1,14 @@
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\bin\Debug\net8.0\Console.bot.exe
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\bin\Debug\net8.0\Console.bot.deps.json
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\bin\Debug\net8.0\Console.bot.runtimeconfig.json
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\bin\Debug\net8.0\Console.bot.dll
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\bin\Debug\net8.0\Console.bot.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.AssemblyInfoInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.AssemblyInfo.cs
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.csproj.CoreCompileInputs.cache
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.dll
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\refint\Console.bot.dll
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.pdb
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\Console.bot.genruntimeconfig.cache
+C:\Users\manzura\OneDrive\Рабочий стол\Console.bot\obj\Debug\net8.0\ref\Console.bot.dll
